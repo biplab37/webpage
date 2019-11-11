@@ -4,4 +4,5 @@ email: biplabmahato37@gmail.com
 github_username: biplab37
 
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: thelehhman/texture
