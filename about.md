@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About
 ---
 
 I am a Undergraduate (5th year) at Indian Institute of Science majoring in Physics with a Mathematics minor.
